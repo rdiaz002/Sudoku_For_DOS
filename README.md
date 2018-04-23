@@ -2,7 +2,7 @@
 Sudoku written For DOS
 
 ## GamePlay <br />
-![alt text](https://github.com/rdiaz002/Sudoku_For_DOS/blob/master/IMAGES/Start_up.PNG) 
+![alt text](https://github.com/rdiaz002/Sudoku_For_DOS/blob/master/IMAGES/start_up.PNG) 
 
 ![alt text](https://github.com/rdiaz002/Sudoku_For_DOS/blob/master/IMAGES/GamePlay.PNG)
 
