@@ -2,9 +2,9 @@
 Sudoku written For DOS
 
 ## GamePlay <br />
-![alt text](http://url/to/img.png) 
+![alt text](https://github.com/rdiaz002/Sudoku_For_DOS/blob/master/IMAGES/Start_up.PNG) 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/rdiaz002/Sudoku_For_DOS/blob/master/IMAGES/GamePlay.PNG)
 
 ## Setup
 Download the *.asm* file from the *src* folder. <br / >
