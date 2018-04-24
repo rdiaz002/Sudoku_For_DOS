@@ -8,7 +8,7 @@ Sudoku written For DOS
 
 ## Setup
 Download the *.asm* file from the *src* folder. <br />
-Save it into your DOSBOX directory. (If you dont have DOSBOX installed, visit this link to install it. ) <br />
+Save it into your DOSBOX directory. (If you dont have DOSBOX installed, visit this [link](https://www.dosbox.com/) to install it. ) <br />
 Make sure you have **Tasm** installed and run : <br />
 > tasm <filename.asm>  <br />
 
