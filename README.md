@@ -7,7 +7,7 @@ Sudoku written For DOS
 ![alt text](https://github.com/rdiaz002/Sudoku_For_DOS/blob/master/IMAGES/GamePlay.PNG)
 
 ## Setup
-Download the *.asm* file from the *src* folder. <br / >
+Download the *.asm* file from the *src* folder. <br />
 Save it into your DOSBOX directory. (If you dont have DOSBOX installed, visit this link to install it. ) <br />
 Make sure you have **Tasm** installed and run : <br />
 > tasm <filename.asm>  <br />
